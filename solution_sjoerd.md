@@ -9,6 +9,8 @@ Author links open overlay panel*
 ## Correlation plot
 ![Correlation_plot](./beer_consumption.jpg)
 
+There seems to be a possible correlation between the amount of students (WO) and the beer consumption in the Netherlands.
+
 ## Author
 Sjoerd Terpstra<br/>
 11251980<br/>
